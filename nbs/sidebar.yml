@@ -1,0 +1,16 @@
+website:
+  sidebar:
+    contents:
+      - section: "Examples"
+        contents:
+          - index.ipynb
+      - section: API
+        contents:
+          - section: Data
+            contents:
+              - 00_data.core.ipynb
+              - 01_data.kssl.ipynb
+          - section: Transforms 
+            contents:
+              - 02_transform.core.ipynb
+
