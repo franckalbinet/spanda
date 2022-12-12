@@ -8,8 +8,6 @@ from fastai.vision.all import *
 from fastai.data.all import *
 from pathlib import Path
 import pandas as pd
-#import numpy as np
-#from typing import Tuple, Dict, Callable
 
 # %% ../../nbs/03_data.load.ipynb 5
 def get_spectra_files(path):

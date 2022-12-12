@@ -182,10 +182,3 @@ def bundle(self:KSSL,
             spectrum.index.name = 'wavenumber'
             out_fname = str(path / Path(row['scan_path_name']).stem) + '.csv'
             spectrum.to_csv(out_fname)
-
-# %% ../../nbs/01_data.kssl.ipynb 23
-@patch
-def from_url(self:KSSL,
-             url:str
-            ):
-    pass
