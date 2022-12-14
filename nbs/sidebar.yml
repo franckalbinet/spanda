@@ -10,7 +10,7 @@ website:
             contents:
               - 00_data.core.ipynb
               - 01_data.kssl.ipynb
-          - section: Transforms 
-            contents:
-              - 02_transform.core.ipynb
-
+              - section: Transformations
+                contents:
+                  - 02_data.transforms.core.ipynb 
+                  - 03_data.transforms.kssl.ipynb

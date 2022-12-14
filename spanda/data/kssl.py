@@ -7,7 +7,7 @@ __all__ = ['KSSL']
 #import subprocess
 import shutil
 from .core import (select_rows, read_opus)
-from ..transform.core import interp
+from .transforms.core import interp
 from fastcore.basics import patch
 from fastcore.xtras import mkdir
 import pandas as pd
