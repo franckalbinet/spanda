@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://franckalbinet.github.io/spanda/index.html</loc>
+    <lastmod>2022-12-16T08:50:36.081Z</lastmod>
+  </url>
+  <url>
+    <loc>https://franckalbinet.github.io/spanda/tutorials/resnet-family.html</loc>
+    <lastmod>2022-12-16T08:50:36.753Z</lastmod>
+  </url>
+  <url>
+    <loc>https://franckalbinet.github.io/spanda/data.transforms.kssl.html</loc>
+    <lastmod>2022-12-16T08:50:37.137Z</lastmod>
+  </url>
+  <url>
+    <loc>https://franckalbinet.github.io/spanda/data.transforms.core.html</loc>
+    <lastmod>2022-12-16T08:50:37.441Z</lastmod>
+  </url>
+  <url>
+    <loc>https://franckalbinet.github.io/spanda/data.core.html</loc>
+    <lastmod>2022-12-16T08:50:37.753Z</lastmod>
+  </url>
+  <url>
+    <loc>https://franckalbinet.github.io/spanda/data.kssl.html</loc>
+    <lastmod>2022-12-16T08:50:38.129Z</lastmod>
+  </url>
+</urlset>
