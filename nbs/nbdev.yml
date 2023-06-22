@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "spanda"
+  site-url: "https://franckalbinet.github.io/spanda"
+  description: "Utilities to do research in soil spectroscopy harnessing the fastai framework and mindset"
+  repo-branch: main
+  repo-url: "https://github.com/franckalbinet/spanda"

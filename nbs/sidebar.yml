@@ -1,0 +1,20 @@
+website:
+  sidebar:
+    contents:
+      - section: "Examples"
+        contents:
+          - index.ipynb
+      - section: API
+        contents:
+          - 00_readers.ipynb
+          - 05_sig.ipynb
+          - 06_utils.ipynb
+          - section: Data
+            contents:
+              - 04_data.transforms.ipynb
+              - section: External
+                contents:
+                  - 01_data.external.kssl.ipynb
+                  - 02_data.external.iaea.ipynb
+                  - 03_data.external.wcrc.ipynb
+                  - 07_data.external.lucas.ipynb
